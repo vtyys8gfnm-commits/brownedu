@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>브라운에듀 - 김석주 영어 공부방</title>
     <style>
-        /* [디자인 룸] 사진 속 색상 팔레트를 그대로 가져왔어! */
         :root {
             --background: hsl(40, 20%, 98%);  /* 아이보리 흰색 */
             --foreground: hsl(220, 30%, 15%); /* 글자색 (진한 남색) */
